@@ -1,5 +1,5 @@
 {
-  "name": "tanchengjin/laravel-admin-google-authenticator",
+  "name": "gps-gaming/laravel-admin-google-authenticator",
   "description": "this is google authenticator extension of laravel admin",
   "type": "library",
   "keywords": [
